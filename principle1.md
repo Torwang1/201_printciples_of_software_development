@@ -1,0 +1,5 @@
+Principle 1: Quality Is #1
+
+A customer will not tolerate a product with poor quality, regardless of the definition of quality. **Quality must be quantified and mechanisms put into place to motivate and reward its achievement.** It may seem politically correct to deliver a product on time, even though its quality is poor, but it is politically correct in the short term only; it is political suicide in the middle and long term. There is no trade-off to be made. The first requirement must be quality. Edward Yourdon suggests that you "Just say no" when you're asked to sppeed up testing, ignore a few bugs, or code before agreeing on a design or a set of requirements.
+
+用户不会容忍质量差的产品, 无论质量的定义如何. **质量必须量化, 并建立机制来刺激和奖励质量成就.** 可能按期交付产品是政治正确的, 尽管质量很差, 但这只是短期内的政治正确; 中长期来看, 这是政治自杀. 不需要取舍权衡. 质量一定是第一要求. 当你被要求忽略一些bug来加速测试, 或者, 在对设计或一系列必要条件达成一致前编码, Edward Yourdon 建议"直接说No".
